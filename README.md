@@ -11,8 +11,6 @@ A something, something
 
 [![license]()
 ![Discord]()
-![David]()
-[![Dependabot Status]()
 </div>
 
 This repository is a 
