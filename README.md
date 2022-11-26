@@ -27,8 +27,9 @@ production build
 This version of the boilerplate is meant for the CfxLua runtime.
 
 ## Requirements
-* [Node > v10.6](https://nodejs.org/en/)
-* [Yarn](https://yarnpkg.com/getting-started/install) (Preferred but not required)
+* K5 Documents - https://github.com/BTNGaming/k5_documents 
+* Ox_target - https://github.com/overextended/ox_target 
+
 
 *A basic understanding of the modern web development workflow. If you don't 
 know this yet, React might not be for you just yet.*
